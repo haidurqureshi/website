@@ -19,7 +19,7 @@ export default function Home() {
             At HaidurQureshi Ltd, we believe in the power of technology to transform businesses and improve lives. We are passionate about creating software that is not only functional but also user-friendly and visually appealing. Whether you're looking for a custom website, a mobile app, or a complex software system, we have the expertise to bring your vision to life.
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
+        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row pt-5">
           <a
             className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
             href="mailto:Enquires@haidurqureshi.com"
