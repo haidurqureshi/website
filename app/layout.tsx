@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ekonos",
-  description: "Ethical personal finance",
+  title: "HaidurQureshi Ltd",
+  description: "Software Developement",
 };
 
 export default function RootLayout({
